@@ -1,9 +1,9 @@
-# FUTURE_ML_03
-
 # Resume Screening and Candidate Ranking ML System
 
 Author: Seana Mutinda
+
 Organization: Future Interns - Task 3 ML Project
+
 Date: February 2026
 
 
