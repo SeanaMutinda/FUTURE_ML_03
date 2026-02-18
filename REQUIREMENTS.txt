@@ -1,0 +1,29 @@
+# Requirements for Resume Screening and Candidate Ranking System
+# Author: Seana Mutinda
+# Future Interns - Task 3 ML Project
+# February 2026
+
+# NLP
+spacy>=3.7.0
+nltk>=3.8.1
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Data Manipulation
+numpy>=1.26.0
+pandas>=2.1.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Dataset Access
+kagglehub>=0.2.0
+
+# Notebook Support
+ipython>=8.0.0
+
+
+# After installing, also run:
+# python -m spacy download en_core_web_sm
